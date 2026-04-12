@@ -23,10 +23,6 @@ env/
 data/
 *.csv
 
-# Outputs & visuals (generated at runtime)
-outputs/
-visuals/
-
 # OS
 .DS_Store
 Thumbs.db
